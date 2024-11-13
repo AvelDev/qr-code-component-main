@@ -36,6 +36,7 @@ body {
   justify-content: start;
   align-items: center;
   padding: 16px 16px 40px 16px;
+  box-shadow: 0 25px 25px rgba(0, 0, 0, 0.05);
 }
 
 .image {
